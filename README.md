@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=250&section=header&text=👋%20Bem-vindo!&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=o%20%20e%20&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:900C3F&height=250&section=header&text=👋%20Bem-vindo!&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=%20%20%20&descAlignY=60)
 
 
 <div align="center">
