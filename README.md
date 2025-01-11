@@ -59,4 +59,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,100:FF5733&height=150&section=footer&text=%20&fontColor=ffffff)
 
+[![card](https://github-readme-stats.vercel.app/api?username=theuam-matheus&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div> 
