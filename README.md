@@ -4,6 +4,8 @@
 
 <div align="center">
 
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=Matheus-theuam&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
 ### 🚀 **Technologies and Tools I Love to Use**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,7 +29,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.amartos@gmail.com)
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,100:FF5733&height=150&section=footer&text=%20&fontColor=ffffff)
 
