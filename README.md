@@ -5,7 +5,7 @@
 <div align="center">
 
  <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api?username=theuam-matheus&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
