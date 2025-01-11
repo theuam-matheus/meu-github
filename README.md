@@ -4,32 +4,8 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=theuam-matheus&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuam-matheus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=theuam-matheus&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -59,6 +35,5 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,100:FF5733&height=150&section=footer&text=%20&fontColor=ffffff)
 
-[![card](https://github-readme-stats.vercel.app/api?username=theuam-matheus&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div> 
